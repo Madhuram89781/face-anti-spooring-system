@@ -111,3 +111,4 @@ python train.py --device_ids 0  --patch_info your_patch
 
 除了本次开源的静默活体检测算法外，小视科技还拥有多项人脸识别、人体识别相关的自研算法及商用SDK。有兴趣的个人开发者或企业开发者可登录[小视科技Mini-AI开放平台](https://ai.minivision.cn/)了解和联系我们。
 # face-anti-spooring-system
+# face-anti-spooring-system
